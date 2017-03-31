@@ -1,0 +1,6 @@
+C:\Код\Lab1WebApp\Lab1WebApp\bin\Lab1WebApp.dll.config
+C:\Код\Lab1WebApp\Lab1WebApp\bin\Lab1WebApp.dll
+C:\Код\Lab1WebApp\Lab1WebApp\bin\Lab1WebApp.pdb
+C:\Код\Lab1WebApp\Lab1WebApp\obj\Debug\Lab1WebApp.csprojResolveAssemblyReference.cache
+C:\Код\Lab1WebApp\Lab1WebApp\obj\Debug\Lab1WebApp.dll
+C:\Код\Lab1WebApp\Lab1WebApp\obj\Debug\Lab1WebApp.pdb
